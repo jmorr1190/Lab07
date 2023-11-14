@@ -84,7 +84,7 @@ Question 2a: Oh no`)
 console.log(`${name1}`, "and", `${name2}`, "are eating", `${food1}`, "and drinking", `${drink1}`);
 
 //Question: Read the error message - in your own words - what does it mean?
-//Answer:
+//Answer: What error message? 
 
 /*---------------------------------- Arrow Functions -------------------------------------*/
 console.log(`-------------------------- 
