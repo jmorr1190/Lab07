@@ -61,9 +61,14 @@ Question 2: Template Literals`)
  *
  * ↓ YOUR CODE HERE ↓ */
 
+let whatAreWeEating = `${name1} and ${name2} are eating ${food1} and drinking ${drink1}.`;
+
+console.log(whatAreWeEating); 
+
 //Question: How would the sentence you wrote look if you used string concatenation instead of template literals?
 //          console.log() your answer to check
-//Answer:
+//Answer: 
+console.log(`${name1}`, "and", `${name2}`, "are eating", `${food1}`, "and drinking", `${drink1}`);
 console.log(`-------------------------- 
 Question 2a: Oh no`)
 
