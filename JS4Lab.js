@@ -49,8 +49,7 @@ let name1 = "Jacklyn";
 let name2 = "Casey";    
 
 //Question: Name a reason why you would use const instead of let.
-//Answer:
-
+//Answer: You would use Const instead of let in times where you do not want to change that value. Let is something that can be changed when needed.  
 /*---------------------------------- Template Literals -------------------------------------*/
 console.log(`-------------------------- 
 Question 2: Template Literals`)
