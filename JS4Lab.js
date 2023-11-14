@@ -43,6 +43,10 @@ Question 1: Declaring Let and Const variables`)
  * Step 2: Initialize two more variables using 'let' and set one value to your name, and the other to your friends name.
  *
  * ↓ YOUR CODE HERE ↓ */
+const food1 = "pizza";
+const drink1 = "beer";
+let name1 = "Jacklyn";
+let name2 = "Casey";    
 
 //Question: Name a reason why you would use const instead of let.
 //Answer:
