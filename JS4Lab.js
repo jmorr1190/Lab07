@@ -44,7 +44,7 @@ Question 1: Declaring Let and Const variables`)
  *
  * ↓ YOUR CODE HERE ↓ */
 const food1 = "pizza";
-const drink1 = "beer";
+const drink1 = "Pepsi";
 let name1 = "Jacklyn";
 let name2 = "Casey";    
 
@@ -78,6 +78,10 @@ Question 2a: Oh no`)
  * Step 2: Make a change to your code in Question 1 to fix the error. Run your code to make sure it's fixed.
  *
  * ↓ YOUR CODE HERE ↓ */
+
+
+
+console.log(`${name1}`, "and", `${name2}`, "are eating", `${food1}`, "and drinking", `${drink1}`);
 
 //Question: Read the error message - in your own words - what does it mean?
 //Answer:
