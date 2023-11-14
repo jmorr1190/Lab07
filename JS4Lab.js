@@ -103,10 +103,15 @@ Question 3: Arrow Functions`)
  *         console.log(lunchTime('Pizza','Water'))
  * ↓ YOUR CODE HERE ↓ */
 
-const lunchTime = (foodChoice, drinkChoice) => {
-   return `${name1}`, "and", `${name2}`, "are eating", `${food1}`, "and drinking", `${drink1}`;
-};
-console.log(lunchTime.prototype); 
+
+/*Not sure how to do this one. I tried it with brackets, no brackets, const, no const.*/
+
+const foodChoice= "pizza"
+const drinkChoice= "Pepsi" 
+
+const lunchTime = (foodChoice, drinkChoice) => name1 and name2 are eating foodChoice and drinking drinkChoice;
+
+console.log(lunchTime); 
 
 //Question: What would your function look like if we were using the old way of creating a function?
 //Answer:
